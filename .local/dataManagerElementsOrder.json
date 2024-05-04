@@ -1,0 +1,60 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Read Excel to Datatable.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "isExist&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "out_dtTable"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Input Into Website.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "phoneNumber&Sequence_3",
+        "email&Sequence_3",
+        "address&Sequence_3",
+        "roleInCompany&Sequence_3",
+        "companyName&Sequence_3",
+        "lastName&Sequence_3",
+        "firstName&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_dtTable"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Open Browser & Download File.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dtTable&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
