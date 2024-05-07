@@ -1,0 +1,1 @@
+A simple RPA project created with UiPath, the robot starts by opening the browser and navigating to the RPA challenge website, then it downloads an excel file containing some data about a company's employees, then it proceeds to fill the forms in the website using the data as fast as possible.
